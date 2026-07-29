@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arun Kumar J 👋</h1>
+<h1 align="center">Hi, I'm Arun Kumar 👋</h1>
 
 <p align="center">
   <em>M.Sc Computer Science — Software Engineering @ EPITA Paris</em><br/>
