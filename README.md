@@ -9,7 +9,7 @@
   <a href="mailto:arunkumarcs2202@gmail.com">
     <img src="https://img.shields.io/badge/Email-arunkumarcs2202%40gmail.com-1A6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ARUNKUMAR2202">
+  <a href="www.linkedin.com/in/arun-kumar22">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1A6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
