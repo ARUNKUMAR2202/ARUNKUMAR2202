@@ -9,14 +9,14 @@
   <a href="mailto:arunkumarcs2202@gmail.com">
     <img src="https://img.shields.io/badge/Email-arunkumarcs2202%40gmail.com-1A6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/arun-kumar22">
+  <a href="https://www.linkedin.com/in/ARUNKUMAR2202">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1A6B6B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 - 🎓 **M.Sc in Computer Science (Software Engineering)** — EPITA, Paris (2023–2025)
 - 🏫 Previously: Master & Bachelor in Computer Science — Sri Aravindar Arts and Science College, India
@@ -54,20 +54,20 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Digital Security Application
+### 🔐 Digital Security Application
 > A full-stack digital security web application built during my studies.
 
 - **Front End:** HTML5, CSS3, JavaScript, Angular JS
 - **Back End:** MySQL, .NET (Visual Studio)
 - Implemented secure authentication and data privacy principles
 
-> 
+> *(More EPITA projects coming soon!)*
 
 ---
 
-## Education Highlights — EPITA Paris
+## 📚 Education Highlights — EPITA Paris
 
 Key areas covered during my M.Sc:
 
@@ -82,25 +82,31 @@ Key areas covered during my M.Sc:
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=ARUNKUMAR2202&theme=dark&ring=1A9E9E&fire=1A9E9E&currStreakLabel=1A9E9E&border=1A6B6B" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNKUMAR2202&layout=compact&theme=dark&title_color=1A9E9E&border_color=1A6B6B&cache_seconds=1800" height="160" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ARUNKUMAR2202&theme=dark&ring=1A9E9E&fire=1A9E9E&currStreakLabel=1A9E9E&border=1A6B6B" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNKUMAR2202&layout=compact&theme=dark&title_color=1A9E9E&border_color=1A6B6B&cache_seconds=1800" height="160" />
+</p>
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
 - 🏆 **Full Stack Web Development** — Verzeo (07/2022 – 10/2022)
 - 📊 **Data Analyst using Python** (02/2024 – 04/2024)
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 I'm actively looking for a **software engineering internship in France** (Full Stack / Web / Backend).  
 Feel free to reach out!
 
-**arunkumarcs2202@gmail.com**
+📧 **arunkumarcs2202@gmail.com**
 
 ---
 
