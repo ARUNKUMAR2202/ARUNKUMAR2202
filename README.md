@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 **M.Sc in Computer Science (Software Engineering)** — EPITA, Paris (2023–2025)
 - 🏫 Previously: Master & Bachelor in Computer Science — Sri Aravindar Arts and Science College, India
@@ -54,9 +54,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Digital Security Application
+### Digital Security Application
 > A full-stack digital security web application built during my studies.
 
 - **Front End:** HTML5, CSS3, JavaScript, Angular JS
@@ -67,7 +67,7 @@
 
 ---
 
-## 📚 Education Highlights — EPITA Paris
+## Education Highlights — EPITA Paris
 
 Key areas covered during my M.Sc:
 
@@ -82,7 +82,7 @@ Key areas covered during my M.Sc:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARUNKUMAR2202&show_icons=true&theme=dark&title_color=1A9E9E&icon_color=1A9E9E&border_color=1A6B6B&hide_border=false" height="160" />
@@ -91,19 +91,19 @@ Key areas covered during my M.Sc:
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - 🏆 **Full Stack Web Development** — Verzeo (07/2022 – 10/2022)
 - 📊 **Data Analyst using Python** (02/2024 – 04/2024)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm actively looking for a **software engineering internship in France** (Full Stack / Web / Backend).  
 Feel free to reach out!
 
-📧 **arunkumarcs2202@gmail.com**
+**arunkumarcs2202@gmail.com**
 
 ---
 
