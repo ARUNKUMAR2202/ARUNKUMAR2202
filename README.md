@@ -63,7 +63,7 @@
 - **Back End:** MySQL, .NET (Visual Studio)
 - Implemented secure authentication and data privacy principles
 
-> *(More EPITA projects coming soon!)*
+> 
 
 ---
 
