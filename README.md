@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arun Kumar 👋</h1>
+<h1 align="center">Hi, I'm Arun Kumar </h1>
 
 <p align="center">
   <em>M.Sc Computer Science — Software Engineering @ EPITA Paris</em><br/>
@@ -85,11 +85,11 @@ Key areas covered during my M.Sc:
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ARUNKUMAR2202&theme=dark&ring=1A9E9E&fire=1A9E9E&currStreakLabel=1A9E9E&border=1A6B6B" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ARUNKUMARJ22&theme=dark&ring=1A9E9E&fire=1A9E9E&currStreakLabel=1A9E9E&border=1A6B6B" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNKUMAR2202&layout=compact&theme=dark&title_color=1A9E9E&border_color=1A6B6B&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNKUMARJ22&layout=compact&theme=dark&title_color=1A9E9E&border_color=1A6B6B&cache_seconds=1800" height="160" />
 </p>
 
 ---
